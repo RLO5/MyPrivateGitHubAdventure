@@ -4,5 +4,6 @@ Welcome to MyPrivateGitHubAdventure! This private repository is where I embark o
 chatgpt is the best assistant for a programming learner!
 many of web2 developers will migrate to crypto space by new technologies that make it possible to write dapps with language other than solidity
 noir >> Aztec
-move >> movementxyz
+move >> movementxyz, Aptos
 rust >> fuel 
+
