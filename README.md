@@ -6,4 +6,6 @@ many of web2 developers will migrate to crypto space by new technologies that ma
 noir >> Aztec
 move >> movementxyz, Aptos, Sui
 rust >> fuel 
+-------------
+fluentxyz
 
