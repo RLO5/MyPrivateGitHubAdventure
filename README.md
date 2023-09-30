@@ -7,4 +7,5 @@ noir >> Aztec
 move >> movementxyz, Aptos, Sui
 rust >> fuel 
 fluentxyz
+monad
 
