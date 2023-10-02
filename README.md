@@ -8,4 +8,5 @@ rust >> fuel
 fluentxyz
 monad
 RiscZero
+scroll
 
