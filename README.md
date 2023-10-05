@@ -11,3 +11,4 @@ RiscZero
 scroll
 LayerN
 ethena labs
+kakarot zkevm
