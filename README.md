@@ -9,7 +9,9 @@ fluentxyz
 monad
 RiscZero
 scroll
+Linea
 LayerN
 ethena labs
 kakarot zkevm
 kroma
+
