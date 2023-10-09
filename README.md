@@ -15,4 +15,5 @@ ethena labs
 kakarot zkevm
 kroma
 ola
+opbnb
 
