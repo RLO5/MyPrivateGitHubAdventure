@@ -21,3 +21,5 @@ polyhedera
 debank
 base
 metamask
+sync
+mirrror
