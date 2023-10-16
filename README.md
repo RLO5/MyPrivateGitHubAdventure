@@ -23,3 +23,4 @@ base
 metamask
 sync
 mirrror
+zkbridge
