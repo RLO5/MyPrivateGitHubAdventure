@@ -24,3 +24,4 @@ metamask
 sync
 mirrror
 zkbridge
+altlayer
