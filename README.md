@@ -26,3 +26,5 @@ mirrror
 zkbridge
 altlayer
 myshell-post
+rollapp
+ق
