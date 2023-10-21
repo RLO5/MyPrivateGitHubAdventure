@@ -29,4 +29,6 @@ myshell-post
 rollapps
 Eclips
 dymension
+avail
+infinex
 ق
