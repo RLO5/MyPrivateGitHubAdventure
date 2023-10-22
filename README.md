@@ -26,7 +26,8 @@ mirrror
 zkbridge
 altlayer
 myshell-post
-rollapps
+rollups (raas)
+conduit
 Eclips
 dymension
 avail
