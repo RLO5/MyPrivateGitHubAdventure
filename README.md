@@ -29,6 +29,7 @@ myshell-post
 rollups (raas)
 conduit
 Eclips
+vistara
 dymension
 avail
 infinex
