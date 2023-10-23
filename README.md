@@ -33,4 +33,5 @@ vistara
 dymension
 avail
 infinex
+forge.gg
 ق
