@@ -34,4 +34,5 @@ dymension
 avail
 infinex
 forge.gg
+memecoin
 ق
