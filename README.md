@@ -35,5 +35,5 @@ avail
 infinex
 forge.gg
 memecoin
-zkb
+zkb (l0)
 ق
