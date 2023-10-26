@@ -36,4 +36,5 @@ infinex
 forge.gg
 memecoin
 zkb (l0)
+daily
 ق
