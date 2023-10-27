@@ -37,4 +37,5 @@ forge.gg
 memecoin
 zkb (l0)
 daily tasks
+de.fi, heyxyz, dmail, github dapy
 ق
