@@ -38,5 +38,5 @@ memecoin
 zkb (l0)
 daily tasks
 de.fi, heyxyz, dmail, github dapy
-aevo, kiloex
+aevo, kiloex, dappos
 ق
