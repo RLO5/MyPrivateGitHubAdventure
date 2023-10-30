@@ -39,5 +39,5 @@ zkb (l0)
 daily tasks
 de.fi, heyxyz, dmail, github dapy
 aevo, kiloex, dappos
-StarkNet Eco (
+StarkNet Eco (Ekubo, Avnu, Fibrous)
 ق
