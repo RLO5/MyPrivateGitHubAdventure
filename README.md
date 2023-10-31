@@ -40,4 +40,4 @@ daily tasks
 de.fi, heyxyz, dmail, github dapy
 aevo, kiloex, dappos
 StarkNet Eco (Ekubo, Avnu, Fibrous)
-ق
+madana
