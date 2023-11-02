@@ -41,3 +41,4 @@ de.fi, heyxyz, dmail, github dapy
 aevo, kiloex, dappos
 StarkNet Eco (Ekubo, Avnu, Fibrous)
 madana, holo
+modulus
