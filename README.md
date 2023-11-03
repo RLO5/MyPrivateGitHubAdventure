@@ -41,4 +41,5 @@ de.fi, heyxyz, dmail, github dapy
 aevo, kiloex, dappos
 StarkNet Eco (Ekubo, Avnu, Fibrous)
 madana, holo
-modulus, brign ai to dapps
+modulus, bring ai to dapps
+3 cat: rwa, ai, game
