@@ -42,4 +42,5 @@ aevo, kiloex, dappos
 StarkNet Eco (Ekubo, Avnu, Fibrous)
 madana, holo
 modulus, bring ai to dapps
-3 cat: rwa, ai, game
+3 cat: rwa, ai, game, 
+avail
