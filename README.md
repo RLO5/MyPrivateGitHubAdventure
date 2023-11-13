@@ -45,4 +45,4 @@ modulus, bring ai to dapps
 3 cat: rwa, ai, game, 
 avail
 conduit, caldera, espresso
-//keep going, keep learning
+//keep going, keep learning, knowledge is like a tree
