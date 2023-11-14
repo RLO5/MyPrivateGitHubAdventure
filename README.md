@@ -47,5 +47,3 @@ avail
 conduit, caldera, espresso
 //keep going, keep learning, knowledge is like a tree
 
-NFTs (the nft projects i follow backed by animoca brands):
-
