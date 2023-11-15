@@ -46,4 +46,5 @@ modulus, bring ai to dapps
 avail
 conduit, caldera, espresso
 //keep going, keep learning, knowledge is like a tree
+//do research about plusma
 
