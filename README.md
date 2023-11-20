@@ -48,3 +48,6 @@ conduit, caldera, espresso
 //keep going, keep learning, knowledge is like a tree
 //do research about plusma
 
+alpha:
+bridge from celes to evms with hyperlane
+
