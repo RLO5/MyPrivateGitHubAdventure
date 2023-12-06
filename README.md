@@ -25,8 +25,7 @@ sync
 mirrror
 zkbridge
 altlayer
-myshell-post
-rollups (raas)
+raas
 conduit
 Eclips
 vistara
